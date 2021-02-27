@@ -4,3 +4,26 @@ body{
     background-color: darkgoldenrod;
     font-family: 'Prompt', sans-serif;
 }
+
+div {
+    color:rgb(234, 0, 255)
+}
+
+.bg-color-blue{
+    background-color: blue;
+    font-size: 18px;
+    color:chartreuse;
+}
+.bg-color-green{
+    background-color: green;
+    font-size: 50px;
+    color:darkgrey;
+}
+.border-1-radius-5{
+    background-color:#ed710a;
+    color:#cda833;
+    border: 1px solid #ededed;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+}
